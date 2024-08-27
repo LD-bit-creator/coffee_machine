@@ -1,4 +1,4 @@
-Coffee Machine Project ☕️
+#Coffee Machine Project ☕️
 This project is a Python-based simulation of a coffee machine, designed to demonstrate core Object-Oriented Programming (OOP) concepts. The code models the behavior of a coffee machine, allowing users to select different types of coffee, track ingredient usage, and handle payments.
 
 Features
